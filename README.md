@@ -4,7 +4,7 @@
 Este é um projeto desenvolvido como parte da disciplina de Programação de Computadores 3 durante o meu período acadêmico na faculdade. A proposta era criar uma Calculadora Avançada de Bases Numéricas em Java, inspirada na "Calculadora Programador do Windows" e baseada no livro "Core Java Volume I - Fundamentos" de Horstmann e Cornell.
 
 <h3>Escopo da atividade</h3>
-PRINTAVA
+<img src="https://github.com/pimentahugo/guiswigncalculadora/blob/main/Ava-Atividade2-Calculadora.png" alt="Escopo da atividade" />
 
 <h3>Funcionalidades</h3><br />
 Conversão entre bases numéricas: Hexadecimal, Decimal, Octal e Binário.
@@ -18,4 +18,5 @@ CalculadoraAvancada.java - A classe principal contém a implementação da inter
 ConversaoBase.java - Esta classe trata das operações de conversão entre bases, com atributos e métodos apropriados. Atributos são privados ou protegidos, e métodos set/get públicos são utilizados. O uso automático de Threads para o JFrame instanciado em projeto e Exceptions (throws) adequados aos recursos de interface são contextualizados.
 
 <h3>Resultado do projeto</h3>
-PRINTPROJETO
+<img src="https://github.com/pimentahugo/guiswigncalculadora/blob/main/CalculadoraConversao.png" alt="Resultado do projeto" />
+
